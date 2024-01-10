@@ -15,7 +15,7 @@
               <th>Nama Admin</th>
               <th>Total</th>
               <th>Tanggal</th>
-              <th>Akasi</th>
+              <th>Aksi</th>
             </tr>
           </thead>
           <tbody>
